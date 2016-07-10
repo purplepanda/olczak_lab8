@@ -1,0 +1,53 @@
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #555555;
+}
+
+body {
+  background-color: #ffffff;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: 300;
+  font-weight: bold;
+}
+
+form {
+  width: 60%;
+  margin: auto;
+  display: block;
+  border-bottom: 1px solid #999999;
+  padding: 3%;
+}
+
+input {
+  background-color: rgb(235, 235, 235);
+  font-size: 1.05em;
+  width: 20%;
+  border-radius: 15px;
+  margin: 2px;
+  padding: 1%;
+}
+
+#add {
+  width: 15%;
+}
+
+#buy, #total {
+  width: 60%;
+  margin: auto;
+  padding: 3%;
+}
+
+#total {
+  border-top: 1px solid #999999;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+ul {
+  list-style-type: none;
+}
